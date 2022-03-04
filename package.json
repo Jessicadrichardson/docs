@@ -12,7 +12,7 @@
     "@alex_neo/jest-expect-message": "^1.0.5",
     "@hapi/accept": "^5.0.2",
     "@primer/components": "^31.1.0",
-    "@primer/css": "^18.1.0",
+    "@primer/css": "^19.4.0",
     "@primer/octicons": "^16.1.1",
     "@primer/octicons-react": "^16.1.1",
     "accept-language-parser": "^1.5.0",
@@ -186,7 +186,7 @@
   "name": "docs.github.com",
   "optionalDependencies": {
     "esm": "^3.2.25",
-    "jest-puppeteer": "^5.0.4",
+    "jest-puppeteer": "^6.1.0",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.2",
     "puppeteer": "^9.1.1",
